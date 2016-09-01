@@ -1,6 +1,3 @@
-
-// Structure
-
 nav {
   padding: 50px;
   text-align: center;
@@ -13,7 +10,7 @@ nav {
     background: #ddd;
     border-radius: 5px;
 
-    > li {
+   > li {
       float: left;
       width: 150px;
       height: 65px;
@@ -71,14 +68,7 @@ li:hover > ul.drop-menu li {
 
 
 
-
-
-
-// MENU 1 ---------------
-
-
-
-
+// Menu 1
 
 header {
   height: 100vh;
